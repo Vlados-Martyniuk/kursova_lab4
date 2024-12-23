@@ -1,0 +1,4 @@
+D:/Навчання/5 сем/Курсач/lab4kursova/build/CMakeFiles/calculator.dir
+D:/Навчання/5 сем/Курсач/lab4kursova/build/CMakeFiles/calculator_app.dir
+D:/Навчання/5 сем/Курсач/lab4kursova/build/CMakeFiles/edit_cache.dir
+D:/Навчання/5 сем/Курсач/lab4kursova/build/CMakeFiles/rebuild_cache.dir
